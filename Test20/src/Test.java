@@ -7,6 +7,6 @@ import java.io.InputStream;
 public class Test {
     static int a=5,b=6;
     public static void main(String[] args) {
-	//222222221
+	//222222221ewq
     }
 }
